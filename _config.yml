@@ -14,8 +14,8 @@ description              : "Um dev tentando se manter atualizado nesse mundo que
 url                      : "https://rodrigoavalente.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rodrigoavalente/rodrigoavalente.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+teaser                   : "/assets/imgs/photo-camera.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+breadcrumbs              : false  # false (default)
 words_per_minute         : 200
 comments:
   provider               : disqus
@@ -206,20 +206,20 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /categorias/
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
+jekyll-archives:
+  enabled:
+    - categories
 #     - tags
-#   layouts:
-#     category: archive-taxonomy
+  layouts:
+    category: archive-taxonomy
 #     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
+  permalinks:
+    extra: "/categorias/:name/"
+    category: /categorias/:name/
 #     tag: /tags/:name/
 
 
@@ -237,7 +237,7 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
+    values:      
       layout: single
       author_profile: true
       read_time: true

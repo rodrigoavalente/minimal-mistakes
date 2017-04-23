@@ -1,6 +1,7 @@
 ---
 title: "Boas Vindas"
-excerpt: "Teste"
+excerpt: "Um post de boas vindas ao site, mostrando para o que ele veio."
+category: "Misc"
 ---
 
 Hello, world!
