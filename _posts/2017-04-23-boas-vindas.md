@@ -16,7 +16,7 @@ web sabe o quanto é difícil se manter atualizado, principalmente quando se tra
 **javascript**, para essa linguagem surgem 5 _frameworks_ para cada novo programador o qual deseja
 se aventurar(tá certo, eu iventei esses dados, mas não duvidaria se fosse verdade).
 
-Nessa imensidão de tecnologias é que eu tento procurar algo diferente e tentar filtrar o que
+Nessa imensidão de tecnologias eu tento procurar algo diferente e tentar filtrar o que
 realmente importa, já que é muito fácil perder tempo estudando algo que não vai pra frente, e
 tendo isso em mente que eu criei esse site, com isso espero conseguir compartilhar o que aprendo
 e fazer uma troca de conhecimentos entre aqueles que quiseram se aventurar por aqui. Espero que
