@@ -8,8 +8,8 @@ title: "O que você vai encontrar aqui?"
 Seja bem vindo ao Código Confuso. Me chamo Rodrigo Valente, e aqui vou tentar trazer
 um poquinho sobre as novas tecnologias que venho estudando e mostrar minha opinião sobre elas,
 tudo isso através de meu github pessoal que pode ser encontrado [aqui](https://github.com/rodrigoavalente).
-Espero que gostem e que também contribuam da melhor que forma que puderam, a ideia principal é trocarmos 
-conhecimentos. Dito isto lhes desejos uma boa leitura e **_happy coding_**.
+Espero que gostem e sintam-se a vontade para contribuir, a ideia principal é trocarmos conhecimentos.
+Dito isto lhes desejo uma boa leitura e **_happy coding_**.
 
 Sobre o autor
 -------------
