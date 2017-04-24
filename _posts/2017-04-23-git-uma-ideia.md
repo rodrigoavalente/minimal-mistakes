@@ -6,6 +6,8 @@ header:
     teaser: "/assets/images/github-octocat_yes-we-code.jpg"
 ---
 
+{% include toc icon="list-alt" title="Navegação" %}
+
 **_Welcome stranger_**, se você já desenvolve há algum tempo já deve ter
 sentido a necessidade de se salvar um código em um espaço que não seja o
 da sua máquina, ou indo mais longe, provalmente já deve ter ouvido falar
@@ -21,7 +23,7 @@ Sinceramente não há nada de errado nisso, você é livre para escolher a
 ferramenta que mais lhe atende, mas aqui vou lhe mostrar o por que você
 deveria começar a usar o git.
 
-![Octocat Bombado](/assets/images/steroidtocat.png "Octocat Bombado"){: .aligncenter}
+![Octocat Bombado](/assets/images/steroidtocat.png "Octocat Bombado"){: .align-center}
 
 Primeiramente não se deixe assustar pelo gato acima, aquele é o Octocat, o
 mascote do **GitHub**, que entrarei em detalhes mais a frente, vamos por partes.
