@@ -17,7 +17,7 @@ já feito apelam para o armazenamento interno de sua máquina, outras já apelam
 para ferramentas de armazenamento de arquivos, como Dropbox, One Drive entre
 outros.
 
-Sinceramente não há nada de errado de nisso, você é livre para escolher a
+Sinceramente não há nada de errado nisso, você é livre para escolher a
 ferramenta que mais lhe atende, mas aqui vou lhe mostrar o por que você
 deveria começar a usar o git.
 
@@ -31,7 +31,7 @@ O que é? E como funciona?
 
 Como já dito o _git_ é uma ferramenta de versionamento, com ela é possível manter a história
 do seu código, ver as últimas alterações, e se for o caso, reverter para versões antigas
-do código. Ele também possibilita manter um versão do seu código em servidores remotos, possibilitando
+do código. Ele também possibilita manter uma versão do seu código em servidores remotos, possibilitando
 o fácil compartilhamento e a portabilidade do código. As suas aplicações individualmente são separadas
 no que o _git_ define como um repositório, o repositório nada mais é onde seu código fonte fica salvo.
 
@@ -54,7 +54,7 @@ caso você queira ter repositórios privados o site oferece planos pago para iss
 
 Já no **Bitbucket** todos os seus repositórios são privados, a única limitação acontece quanto a organizações
 (grupo de programadores que compartilham repositórios em resumo), sendo neste caso a quantidade de membros
-na organização, ele também oferece planos pagos para esse quesito.
+na organização, que no máximo é de 5 integrantes, ele também oferece planos pagos para esse quesito.
 
 Se você quiser ir um pouco mais longe, você pode criar o seu próprio servidor remoto, um exemplo seria o
 **GitLab** que dispoem de ferramentas para isso.
@@ -62,7 +62,7 @@ Se você quiser ir um pouco mais longe, você pode criar o seu próprio servidor
 Hmmm... A ideia parece legal... mas tem algo mais?
 --------------------------------------------------
 
-Se você não ainda não se convenceu, aqui vai uma dica importante: muitas empresas contratam pelo seu perfil no
+Se você ainda não se convenceu, aqui vai uma dica importante: muitas empresas contratam pelo seu perfil no
 **GitHub**, você já deve ter chegado a conclusão que pelos projetos no site serem abertos naturalmente o site é
 um aglomerado de projetos _open source_, muitas das pessoas que contribuem em projetos _open source_ conseguem
 seus trabalhos por intermédio do **GitHub**.
@@ -73,8 +73,9 @@ Concluindo
 Espero que eu tenha ao menos lhe deixado com a pulga atrás da orelha pra pelo menos ter curiosidade
 de começar a estudar a ferramente. Aqui também ressalvo que existem outras empresas que utilizam o _git_
 para versionamento de projetos, mas não só de códigos fontes, e sim arquivos de projetos de outros tipos
-de softwares, como por exemplo design de placas de circuitos integrados. Bom, me despeço aqui, espero
-que tenham gostado da leitura, e desejo a vocês **_happy coding_**.
+de softwares, como por exemplo design de placas de circuitos integrados, quem sabe não aparece por aqui
+um tutorial básico de como usar o _git_? Bom, me despeço aqui, espero que tenham gostado da leitura,
+e desejo a vocês um **_happy coding_**.
 
 
 
