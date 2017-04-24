@@ -10,7 +10,7 @@ header:
 relacionados a tecnologia, tentar expor um pouco das minhas experiências nesse mundo de
 constante crescimento que é a Tecnologia da Informação.
 
-O foco principal será sobre tecnologias web, já que elas continuam crescendo ardualmente a
+O foco principal será sobre tecnologias web, já que elas continuam crescendo continuamente a
 cada dia que se passa, e é por isso que o site recebe esse nome. Quem acompanha a evolução do desenvolvimento
 web sabe o quanto é difícil se manter atualizado, principalmente quando se trata do famigerado
 **javascript**, para essa linguagem surgem 5 _frameworks_ para cada novo programador o qual deseja
