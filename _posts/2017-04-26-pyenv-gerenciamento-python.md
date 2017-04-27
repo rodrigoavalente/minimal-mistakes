@@ -37,7 +37,7 @@ Nessa seção a parte irei exemplificar como instalar e utilizar a ferramente, v
 
 ### Instalando o _pyenv_
 
-Para aqueles que usam MAC OSX o _pyenv_ já está disponível no _homebrew_, bastando o utilizar para obter o software. Já para aqueles que utilizam o sistemas linux, existe um projeto no **GitHub** chamado de [_pyenv installer_](https://github.com/pyenv/pyenv-installer), e é muito simples, não é necessário baixar o repositório diretamente, em um terminal execute:
+Para aqueles que usam MAC OSX o _pyenv_ pode ser instalado usando o _homebrew_, bastando o utilizar para obter o software. Já para aqueles que utilizam o sistemas linux, existe um projeto no **GitHub** chamado de [_pyenv installer_](https://github.com/pyenv/pyenv-installer), e é muito simples, não é necessário baixar o repositório diretamente, em um terminal execute:
 
 ```
 curl -L https://raw.githubusercontent.com/pyenv/pyenv-installer/master/bin/pyenv-installer | bash
