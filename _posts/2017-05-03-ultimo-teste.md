@@ -6,4 +6,4 @@ header:
     teaser: "/assets/images/pythonlogo.jpg"
 ---
 
-Agendado para às 12:00.
+Agendado para às 15:00.
